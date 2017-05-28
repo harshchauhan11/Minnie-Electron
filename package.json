@@ -1,0 +1,11 @@
+{
+  "name": "mynodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "Prevolt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
